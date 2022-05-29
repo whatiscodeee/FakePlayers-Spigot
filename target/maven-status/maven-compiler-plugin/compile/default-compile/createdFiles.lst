@@ -1,0 +1,6 @@
+me\whatiscode\spigot_fakeplayers\command\ProtectPlayer.class
+me\whatiscode\spigot_fakeplayers\FakeplayersPlugin.class
+me\whatiscode\spigot_fakeplayers\command\impl\SetFakePlayers.class
+me\whatiscode\spigot_fakeplayers\FakePlayersPacket.class
+me\whatiscode\spigot_fakeplayers\command\CommandInfo.class
+me\whatiscode\spigot_fakeplayers\command\BaseCommand.class

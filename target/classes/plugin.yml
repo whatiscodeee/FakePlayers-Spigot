@@ -1,0 +1,14 @@
+name: FakePlayersSpigot
+main: me.whatiscode.spigot_fakeplayers.FakeplayersPlugin
+version: 1.0
+
+author: whatiscode
+
+description: написал какой-то плагин на включение фейковых игроков, сурс на гитхабе, так что можно и переписать если хотите
+
+softdepend:
+  - ProtocolLib
+
+commands:
+  setfakeplayers:
+    description: Устанвовить количество несуществующих игроков
