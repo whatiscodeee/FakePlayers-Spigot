@@ -11,7 +11,7 @@ public class SetFakePlayers extends BaseCommand {
     private FakeplayersPlugin plugin;
 
     public SetFakePlayers(FakeplayersPlugin plugin) {
-        super(new CommandInfo("setfakeplayers", "Установить количество фейк-игроков", "/setfakeplayers <количество>]"), 1);
+        super(new CommandInfo("setfakeplayers", "Установить количество фейк-игроков", "/setfakeplayers <количество>"), 1);
         this.plugin = plugin;
     }
 
